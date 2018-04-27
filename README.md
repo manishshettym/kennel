@@ -3,8 +3,13 @@ Do you ever get lazy feeding your pets? Sure, we love our pets, but just sometim
 
 # Hardware
 1.Arduino Uno
+
 2.ldr sensor
+
 3. Ultrasonic distance sensor
+
 4.RFID MFRC522 (can include buzzer)
+
 5.Servo Motor
+
 6.RTC DS1307
