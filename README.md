@@ -6,7 +6,7 @@ Do you ever get lazy feeding your pets? Sure, we love our pets, but just sometim
 
 2.ldr sensor
 
-3. Ultrasonic distance sensor
+3.Ultrasonic distance sensor
 
 4.RFID MFRC522 (can include buzzer)
 
