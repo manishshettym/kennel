@@ -1,5 +1,5 @@
 
-[![Watch the video]()]
+[![Watch the video](https://github.com/ManishShettyM/Kennel-The-Automated-Pet-Feeder-/blob/master/PetFeeder.mp4)]
 
 
 
