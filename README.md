@@ -1,4 +1,4 @@
-# Kennel-The-Automated-Pet-Feeder
+# kennel
 
 Do you want to feed your pets in a timely manner, regardless of whether you are at home? Here's a smart automatic pet feeder using Arduino Uno!
 
